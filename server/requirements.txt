@@ -1,0 +1,8 @@
+express
+mongoose
+jsonwebtoken
+bcryptjs
+cors
+cloudinary
+multer
+nodemon # for development only
