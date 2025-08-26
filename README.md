@@ -55,10 +55,6 @@ A modern, full-stack blogging platform where users can create, edit, delete, and
 - Access the app at `http://localhost:3000` (frontend)
 - Backend runs at `http://localhost:5000`
 
-## References
-- [Clever Programmer YouTube](https://www.youtube.com/c/CleverProgrammer)
-- [Codevolution YouTube](https://www.youtube.com/c/Codevolution)
-- Sample app: [Medium](https://medium.com)
 
 ## License
 MIT
